@@ -1,0 +1,68 @@
+.sliderImg {
+    height: 10PX;
+    width: 100%;
+  }
+
+  .cardImg {
+    width: 100;
+  }
+  
+
+  .btn1 {
+    color: rgb(22, 19, 19);
+    background-color: red;
+    border-radius: 10px;
+    
+  }
+  .btn2 {
+    color: rgb(22, 19, 19);
+    background-color: red ;
+    border-radius: 10px;
+    margin-left: 800px;
+  }
+  .btn2:hover{
+    color: rgb(22, 19, 19);
+    background-color: green ;
+  }
+  .Contect {
+    display: flex;
+}
+  form{
+    width: 50%;
+    margin-left: 100px;
+  }
+  .row1 {
+    width: 120%;
+}
+
+.card{
+  transition: all 0.5s ease-in;
+  margin-top: 10px;
+}
+.card:hover{
+  transform: translateY(-10px);
+  cursor: pointer;
+}
+.btn-primary{
+  color: black;
+  background-color: orange;
+}
+.btn-primary:hover{
+  color: black;
+  background-color: blue;
+}
+.container2{
+  transition: all 0.5s ease-in;
+  margin-top: 10px;
+}
+.container2{
+  transform: translateY(-10px);
+  cursor: pointer;
+}
+
+
+
+
+
+
+
